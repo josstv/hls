@@ -58,18 +58,18 @@ https://jdy.zhangjianxun.com/live/zbstreamcnhd285010.m3u8?txSecret=9e259e18e2b5e
 https://jdy.zhangjianxun.com/live/zbstream285010.m3u8?txSecret=52fe0431d32b60b6f37df5805cda3098&txTime=1623812705
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman tes SD
 #EXTVLCOPT:http-referrer=https://www1.bein-live.net/
-https://v18.antimatter-cdn.uk/live/ch01_SD.m3u8
+https://v18.antimatter-cdn.uk/live/chx1_SD.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman SMP
 http://live1.3giay.tv/55196/135557/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 1(sport tv1) SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/luheyuho5ahu2ifoba6a/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=ip7sd
+https://e8.dotice.me/plyvivo/3isigedo5ef0mudi8ur0/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 2 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e7.dotice.me/plyvivo/s0wana9izufefure80xe/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=hwk1sd
+https://e8.dotice.me/plyvivo/5urenada7uxu105afiwu/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 3 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/fox0cafa1okono6ijotu/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=fub1sd
+https://e8.dotice.me/plyvivo/rir04obo20dodi5uhulu/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 4 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen1sd
 https://e8.dotice.me/plyvivo/her0303u7ukabagimufe/chunklist.m3u8
