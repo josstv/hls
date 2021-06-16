@@ -49,13 +49,13 @@ https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/d.m3u8
 https://d3q3uiqv5snqur.cloudfront.net/out/v1/e076f20d51c449a89f1b89c10c0e5ef4/index_3.m3u8?ZaNa_iptv.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia SD 5
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd285010.m3u8?txSecret=30bd5ab44b5a596a802a784914880f9c&txTime=1623812705
+https://jdy.zhangjianxun.com/live/zbstream25462.m3u8?txSecret=aae28cdbb452cb5e81e6094fe5d90f04&txTime=1623876109
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia SD 6
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd285010.m3u8?txSecret=9e259e18e2b5efb4a8ad9d827c2862c0&txTime=1623812705
+https://jdy.zhangjianxun.com/live/zbstreamcnhd25462.m3u8?txSecret=66de43512a2b46b05890c12575f7a004&txTime=1623876109
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia HD 723
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstream285010.m3u8?txSecret=52fe0431d32b60b6f37df5805cda3098&txTime=1623812705
+https://jdy.zhangjianxun.com/live/zbstreamhd25462.m3u8?txSecret=7eab4096226902dc382272c6d9ef07a8&txTime=1623876109
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia tes SD
 #EXTVLCOPT:http-referrer=https://www1.bein-live.net/
 https://v18.antimatter-cdn.uk/live/chx1_SD.m3u8
