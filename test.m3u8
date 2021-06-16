@@ -73,6 +73,18 @@ https://e8.dotice.me/plyvivo/rir04obo20dodi5uhulu/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 4 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen1sd
 https://e8.dotice.me/plyvivo/her0303u7ukabagimufe/chunklist.m3u8
+#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 1
+http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/131
+#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 2
+http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/132
+#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 3
+http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/133
+#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 4
+http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/134
+#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 5
+http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/135
+#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 6
+http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/136
 
 
 
