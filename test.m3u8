@@ -36,30 +36,30 @@ https://jdy.zhangjianxun.com/live/zbstreamcnhd52098.m3u8?txSecret=eaefdbd7db5c13
 
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman SD
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia SD
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman SD 2
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia SD 2
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen1sd
 https://e8.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman SD 3
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia SD 3
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman SD 4 arab
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia SD 4 arab
 https://d3q3uiqv5snqur.cloudfront.net/out/v1/e076f20d51c449a89f1b89c10c0e5ef4/index_3.m3u8?ZaNa_iptv.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman SD 5
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia SD 5
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
 https://jdy.zhangjianxun.com/live/zbstreamhd285010.m3u8?txSecret=30bd5ab44b5a596a802a784914880f9c&txTime=1623812705
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman SD 6
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia SD 6
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
 https://jdy.zhangjianxun.com/live/zbstreamcnhd285010.m3u8?txSecret=9e259e18e2b5efb4a8ad9d827c2862c0&txTime=1623812705
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman HD 723
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia HD 723
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
 https://jdy.zhangjianxun.com/live/zbstream285010.m3u8?txSecret=52fe0431d32b60b6f37df5805cda3098&txTime=1623812705
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman tes SD
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia tes SD
 #EXTVLCOPT:http-referrer=https://www1.bein-live.net/
 https://v18.antimatter-cdn.uk/live/chx1_SD.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|perancis vs jerman SMP
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|finlandia vs Rusia SMP
 http://live1.3giay.tv/55196/135557/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 1(sport tv1) SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=ip7sd
@@ -123,8 +123,9 @@ https://e7.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
 https://e6.dotice.me/plyvivo/70voxi3aya3o7o8amaha/chunklist.m3u8
 
 
-#EXTINF:0 user-agent="" tvg-country="id" tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo%2BRCTI.png" group-title="TV LOKAL",RCTI
-http://103.88.170.102:8000/play/rcti/index.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo%2BRCTI.png" group-title="TV LOKAL",RCTI
+#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
+https://warkopteve.xyz/m3u/aplay_vid.php?channel=665
 #EXTINF:0 user-agent="" tvg-country="id" tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo%2BRCTI.png" group-title="TV LOKAL",RCTI 2
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_480p/index.m3u8
 #EXTINF:0 user-agent="Udin-sayang-papahAwen" tvg-country="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/1280px-MNCTV_MNC-Group.svg.png" group-title="TV LOKAL",MNCTV
@@ -152,7 +153,7 @@ http://62.210.127.9:25461/a6ckyPjvTK/sqcKS61tq4/6763?play_token=krvXGyVFMF&token
 http://103.88.170.102:8000/play/tvone/index.m3u8
 #EXTINF:0 user-agent="" tvg-country="id" tvg-logo="" group-title="TV LOKAL",Jtv
 #EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/aplay_us.php?channel=jtv
+https://warkopteve.xyz/m3u/aplay_us.php?channel=rcti
 
 
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",The Conjuring 3
