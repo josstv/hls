@@ -14,6 +14,12 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7784_480p/index.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley Court 2 SD
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7785_480p/index.m3u8
 
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru SD Mantab
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e6.dotice.me/plyvivo/rir04obo20dodi5uhulu/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru SD Mantab 2
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e8.dotice.me/plyvivo/toyi7exif0wavame50li/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/fox1br/c.m3u8
