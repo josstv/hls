@@ -159,10 +159,8 @@ http://103.88.170.102:8000/play/tvone/index.m3u8
 https://warkopteve.xyz/m3u/aplay_us.php?channel=rcti
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",The Conjuring 3
-#EXTVLCOPT:sub-file=https://www.dl.dropboxusercontent.com/s/0kuj88im7eyugvw/%28putih%29%20the-conjuring-the-devil-made-me-do-it-2021-xvid-webrip-webhd-webdl-paheph-hdrip-everyagent.srt?dl=0
-#EXTVLCOPT:subsdec-encoding=UTF-8
-https://www.dl.dropboxusercontent.com/s/5quvwez5w745a9d/the.conjuring.the.devil.made.me.do.it.2021.720p.hmax.web-dl.x264-tinymkv.xyz.mkv?dl=0
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",Fast & Forious 9
+https://www.dl.dropboxusercontent.com/s/eyd76z1mzfat3k5/fast-and-furious-9-%282021%29-hollywood-english-hdcam--480p-%5Borgmovies%5D.mp4?dl=0
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",A Quiet Place II
 https://www.dl.dropboxusercontent.com/s/iicax7idus1zszh/moviesmeet%E4%B8%A8a.quiet.place.part.ii.%282021%29.480p.english.hdcam-rip.mkv?dl=0
 #EXTINF:0 tvg-country="id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxQ5eh2TSgWC97rMVZzjpjGjkgGTIGSqarw&usqp=CAU" group-title="MOVIES",CELESTIAL MOVIES
