@@ -14,52 +14,56 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7784_480p/index.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley Court 2 SD
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7785_480p/index.m3u8
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",paraguay vs Bolivia
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/fox1br/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",paraguay vs Bolivia 2
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 2
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/fs1/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",paraguay vs Bolivia 3
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 3
 #EXTVLCOPT:http-referrer=https://www1.bein-live.net/
 https://v9.antimatter-cdn.uk/live/ch05_SD.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",paraguay vs Bolivia 720
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 720
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd25410.m3u8?txSecret=87d95e84ff3f3cea481a91b392007cb9&txTime=1623732133
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",paraguay vs Bolivia 720 china
+https://jdy.zhangjianxun.com/live/zbstream25522.m3u8?txSecret=4804139a74e9239efae46604e5e71892&txTime=1624002790
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 720 china
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd25410.m3u8?txSecret=f9903326e03de81544f0eaed3c79f00d&txTime=1623732133
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",china vs syria sd 
+https://jdy.zhangjianxun.com/live/zbstreamcnhd25522.m3u8?txSecret=ce7f895f20fa12c7284f81fb9569c61a&txTime=1624002790
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru sd 
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd52098.m3u8?txSecret=eaefdbd7db5c133f2e065b4902917e83&txTime=1623809543
+https://jdy.zhangjianxun.com/live/zbstreamhd25522.m3u8?txSecret=1a861c3d437f27eb9566ad34a0eaa254&txTime=1624002790
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru Arab SD
+https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index_3.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 720 HD
+http://live1.3giay.tv/55338/135876/chunklist.m3u8
 
 
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Ukraina vs Macedonia Utr SD
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Denmark vs Belgia SD
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Ukraina vs Macedonia Utr SD 2
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Denmark vs Belgia SD 2
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen1sd
 https://e8.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Ukraina vs Macedonia Utr SD 3
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Denmark vs Belgia SD 3
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Ukraina vs Macedonia Utr SD 4 arab
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Denmark vs Belgia SD 4 arab
 https://d3bqtl5qncmm26.cloudfront.net/out/v1/2736b9b29bbf4887b126d76800417bd0/index_3.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Ukraina vs Macedonia Utr SD 5
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Denmark vs Belgia SD 5
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
 https://jdy.zhangjianxun.com/live/zbstream25498.m3u8?txSecret=7ab27dd0a102066fda29a4552ff8fc8f&txTime=1623899793
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Ukraina vs Macedonia Utr SD 6
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Denmark vs Belgia SD 6
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
 https://jdy.zhangjianxun.com/live/zbstreamcnhd25498.m3u8?txSecret=e3a9a0f20765184be62d4b99eb392b97&txTime=1623899793
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Ukraina vs Macedonia Utr HD 723
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Denmark vs Belgia HD 720
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
 https://jdy.zhangjianxun.com/live/zbstreamhd25498.m3u8?txSecret=813a8aaed58cf9f2e1bddc012a46087b&txTime=1623899793
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Ukraina vs Macedonia Utr tes SD
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Denmark vs Belgia tes SD
 #EXTVLCOPT:http-referrer=https://www1.bein-live.net/
 https://v19.antimatter-cdn.uk/live/ch1_HD.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Ukraina vs Macedonia Utr SMP
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",23:00|Denmark vs Belgia SMP
 http://live3.3giay.tv/55327/135760/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 1 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
