@@ -63,7 +63,7 @@ https://v19.antimatter-cdn.uk/live/ch1_HD.m3u8
 http://live3.3giay.tv/55327/135760/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 1 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e7.dotice.me/plyvivo/5uposa4oyafuke8eze4i/chunklist.m3u8
+https://e7.dotice.me/plyvivo/5urenada7uxu105afiwu/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 2 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=ip12sd
 https://e8.dotice.me/plyvivo/2ikedufoc0lusar0lir0/chunklist.m3u8
@@ -73,18 +73,24 @@ https://e7.dotice.me/plyvivo/ribu5oco5e9e2a7ad0se/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 4 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen1sd
 https://e8.dotice.me/plyvivo/her0303u7ukabagimufe/chunklist.m3u8
-#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 1
-http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/131
-#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 2
-http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/132
-#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 3
-http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/133
-#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 4
-http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/134
-#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 5
-http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/135
-#EXTINF:-0 group-title="LIVE EURO 2321",Bein sport Max 6
-http://zanaiptv.zapto.org:25461/zana-iptv/star7zana/136
+#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX1 SD
+#EXTVLCOPT:http-user-agent=uzmceq55agfyyr1bnnv
+http://kaicertv.ddns.net:8080/I2Xc6QDNqW/CAC3SEwU61/3396
+#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX2 SD
+#EXTVLCOPT:http-user-agent=uzmceq55agfyyr1bnnv
+http://kaicertv.ddns.net:8080/I2Xc6QDNqW/CAC3SEwU61/3397
+#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX3 SD
+#EXTVLCOPT:http-user-agent=uzmceq55agfyyr1bnnv
+http://kaicertv.ddns.net:8080/I2Xc6QDNqW/CAC3SEwU61/3398
+#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX4 SD
+#EXTVLCOPT:http-user-agent=uzmceq55agfyyr1bnnv
+http://kaicertv.ddns.net:8080/I2Xc6QDNqW/CAC3SEwU61/3399
+#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX5 SD
+#EXTVLCOPT:http-user-agent=uzmceq55agfyyr1bnnv
+http://kaicertv.ddns.net:8080/I2Xc6QDNqW/CAC3SEwU61/3400
+#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX6 SD
+#EXTVLCOPT:http-user-agent=uzmceq55agfyyr1bnnv
+http://kaicertv.ddns.net:8080/I2Xc6QDNqW/CAC3SEwU61/3401
 
 
 
