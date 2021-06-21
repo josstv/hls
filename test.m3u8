@@ -1,12 +1,21 @@
 #EXTM3U
 
 
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",Melbourne City vs Macarthur FC
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e7.dotice.me/plyvivo/j0bo6a8a1iw0vazinej0/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE TARUNG",Live Boxing 1
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen2sd
 https://e6.dotice.me/plyvivo/her0303u7ukabagimufe/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE TARUNG",Live UFC 1
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE TARUNG",Live UFC 2
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e6.dotice.me/plyvivo/da7iwivoxi3umuce4ibe/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE TARUNG",Live UFC 3
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e6.dotice.me/plyvivo/da7iwivoxi3umuce4ibe/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley 1 HD
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7784_720p/index.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley 1 SD
@@ -16,94 +25,114 @@ http://sofadad.co.uk:80/Sarah123/Sarah123/212402
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley  SD 1
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru SD Mantab
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay Champion 3
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6786
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay SD Mantab
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e6.dotice.me/plyvivo/rir04obo20dodi5uhulu/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru SD Mantab 2
+https://e8.dotice.me/plyvivo/6oxokevuy0ruherixale/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay SD Mantab 2
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/toyi7exif0wavame50li/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru
+https://e7.dotice.me/plyvivo/gaki6uta6imeyig09e8e/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/fox1br/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 2
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 2
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/fs1/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 3
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 3
 #EXTVLCOPT:http-referrer=https://www1.bein-live.net/
-https://v2.antimatter-cdn.uk/live/ch6_SD.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 720
+https://v18.antimatter-cdn.uk/live/ch5_SD.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 720
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstream25522.m3u8?txSecret=4804139a74e9239efae46604e5e71892&txTime=1624002790
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 720 china
+https://jdy.zhangjianxun.com/live/zbstream25546.m3u8?txSecret=0ba3e18d0bf8573a2f14f204ca676a6c&txTime=1624089979
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 720 china
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd25522.m3u8?txSecret=ce7f895f20fa12c7284f81fb9569c61a&txTime=1624002790
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru sd 
+https://jdy.zhangjianxun.com/live/zbstreamhd25546.m3u8?txSecret=c7adf2199849199eb60a554899c97580&txTime=1624089979
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay sd 
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
 https://jdy.zhangjianxun.com/live/zbstreamhd25522.m3u8?txSecret=1a861c3d437f27eb9566ad34a0eaa254&txTime=1624002790
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru Arab SD
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay SD arab
 https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index_3.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Peru 720 HD
-http://live1.3giay.tv/55338/135876/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 720 HD
+http://live2.3giay.tv/55344/136067/chunklist.m3u8
 
 
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|Swedia vs Slovakia SD
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",ukraina vs austria
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|Swedia vs Slovakia SD 2
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",macedonia vs Belanda
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",finlandia vs belgia 1
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamcnhd25462.m3u8?txSecret=94409c54d90cfc2faab3b45fd2b68f97&txTime=1624309041
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",finlandia vs belgia 2
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd25462.m3u8?txSecret=11373e6f37384f4eaba5374d8b963a15&txTime=1624309041
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",denmark vs russia 1
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd25598.m3u8?txSecret=70db0a242636453fcd54d26a081064d0&txTime=1624308735
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",denmark vs russia 2
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd25598.m3u8?txSecret=70db0a242636453fcd54d26a081064d0&txTime=1624308735
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 1 SD
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/spainen/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 2 SD
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 3 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen1sd
 https://e8.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|Swedia vs Slovakia SD 3
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 4 SD
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|Swedia vs Slovakia SD 4 arab
-https://d3bqtl5qncmm26.cloudfront.net/out/v1/2736b9b29bbf4887b126d76800417bd0/index_3.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|Swedia vs Slovakia SD 5
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstream25498.m3u8?txSecret=7ab27dd0a102066fda29a4552ff8fc8f&txTime=1623899793
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|Swedia vs Slovakia SD 6
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd25498.m3u8?txSecret=e3a9a0f20765184be62d4b99eb392b97&txTime=1623899793
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|Swedia vs Slovakia HD 720
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd25498.m3u8?txSecret=813a8aaed58cf9f2e1bddc012a46087b&txTime=1623899793
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|Swedia vs Slovakia tes SD
-#EXTVLCOPT:http-referrer=https://www1.bein-live.net/
-https://v19.antimatter-cdn.uk/live/ch1_HD.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|Swedia vs Slovakia SMP
-http://live3.3giay.tv/55327/135760/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 1 SD
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 5 SD 
+https://d2p8o5fjudh029.cloudfront.net/out/v1/3c03ab735c034f59871dfc2e19f6840d/index_3.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",live 6 SD
+https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index_1.m3u8?
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 7 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e7.dotice.me/plyvivo/5urenada7uxu105afiwu/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 2 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=ip12sd
-https://e8.dotice.me/plyvivo/2ikedufoc0lusar0lir0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 3 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=ip2sd
-https://e7.dotice.me/plyvivo/ribu5oco5e9e2a7ad0se/chunklist.m3u8
+https://e8.dotice.me/plyvivo/xi4ufocusi7izuhu9a6o/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 8 SD
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e8.dotice.me/plyvivo/3ixa8amakehu7u1isalo/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 9 SD
+#EXTVLCOPT:http-referrer=https://www1.bein-live.net/
+https://v22.antimatter-cdn.uk/live/cha1_HD.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 10 SD
+http://live1.3giay.tv/55376/136086/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 11 SD
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e7.dotice.me/plyvivo/m0ji6iba9eru2ona3oce/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 12 SD
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e8.dotice.me/plyvivo/tevexom0yanivujiyono/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 13 SD
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE BBC Sport
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-http://212.224.98.204:2200/NL/bbconesouthwest-uk/tracks-v1a1/mono.m3u8?token=RED_RAD67VFHTkwcrmrJ9STebQ%3D%3D%2C1623568783.4814651659
+http://85.203.33.88/QIfpwiQBrf8222/ilg5yN814/14700
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE NPO 1 Sport
+http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/18505
 #EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX1 SD
 #EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://kaicertv.ddns.net:8080/Jls1G8X9K6/EU2tC9YDVk/3396
+http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67780
 #EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX2 SD
 #EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://kaicertv.ddns.net:8080/Jls1G8X9K6/EU2tC9YDVk/3397
+http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67781
 #EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX3 SD
 #EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://kaicertv.ddns.net:8080/Jls1G8X9K6/EU2tC9YDVk/3398
+http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67782
 #EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX4 SD
 #EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://kaicertv.ddns.net:8080/Jls1G8X9K6/EU2tC9YDVk/3399
+http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67783
 #EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX5 SD
 #EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://kaicertv.ddns.net:8080/Jls1G8X9K6/EU2tC9YDVk/3400
+http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67784
 #EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX6 SD
 #EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://kaicertv.ddns.net:8080/Jls1G8X9K6/EU2tC9YDVk/3401
+http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67785
 
 
 
@@ -118,10 +147,11 @@ https://e7.dotice.me/plyvivo/je3evijolomo4ebuxiko/chunklist.m3u8
 https://e7.dotice.me/plyvivo/je3evijolomo4ebuxiko/chunklist.m3u8
 
 
-
-
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE Trans 7
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-trans7
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE 1 SD
-http://home-tv.my.id/RHS/hiburmpd.m3u8?channel=foxsport2
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e7.dotice.me/plyvivo/z0xesuwe3i9e80yizoco/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE 2
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
 https://e8.dotice.me/plyvivo/4u4obo6a4uz06ubit05a/chunklist.m3u8
@@ -129,17 +159,17 @@ https://e8.dotice.me/plyvivo/4u4obo6a4uz06ubit05a/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
 https://e8.dotice.me/plyvivo/4u4obo6a4uz06ubit05a/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE 4
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/bawipa6u8o1ag06aniba/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=motogpitsd
+https://e13.dotice.me/plyvivo/bawipa6u8o1ag06aniba/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE 5
-#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=motogpdesd
-https://e6.dotice.me/plyvivo/70hoxo6010weyo2iritu/chunklist.m3u8
+#EXTVLCOPT:http-referrer=
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=foxsport2
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE F1 SD
 #EXTVLCOPT:http-referrer=https://freefeds.com/stream/94032.html
 https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE F1 SD 2
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen1sd
-https://e7.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
+https://e6.dotice.me/plyvivo/70voxi3aya3o7o8amaha/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE F1 SD 3
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=skyf1sd
 https://e6.dotice.me/plyvivo/70voxi3aya3o7o8amaha/chunklist.m3u8
@@ -178,8 +208,8 @@ http://103.88.170.102:8000/play/tvone/index.m3u8
 https://warkopteve.xyz/m3u/aplay_us.php?channel=rcti
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",Fast & Forious 9
-https://www.dl.dropboxusercontent.com/s/eyd76z1mzfat3k5/fast-and-furious-9-%282021%29-hollywood-english-hdcam--480p-%5Borgmovies%5D.mp4?dl=0
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",wrong turn 2021
+https://www77.uptostream.com/4dq1h4e36d6/480/0/video.mp4
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",A Quiet Place II
 https://www.dl.dropboxusercontent.com/s/iicax7idus1zszh/moviesmeet%E4%B8%A8a.quiet.place.part.ii.%282021%29.480p.english.hdcam-rip.mkv?dl=0
 #EXTINF:0 tvg-country="id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxQ5eh2TSgWC97rMVZzjpjGjkgGTIGSqarw&usqp=CAU" group-title="MOVIES",CELESTIAL MOVIES
