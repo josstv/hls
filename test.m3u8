@@ -1,9 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",Melbourne City vs Macarthur FC
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",Vissel Kobe vs Yokohama FC SD 
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e7.dotice.me/plyvivo/j0bo6a8a1iw0vazinej0/chunklist.m3u8
+https://e13.dotice.me/plyvivo/1ejibonu1ivow06obi6o/chunklist.m3u8
+
+
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE TARUNG",Live Boxing 1
 #EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen2sd
 https://e6.dotice.me/plyvivo/her0303u7ukabagimufe/chunklist.m3u8
@@ -25,56 +27,56 @@ http://sofadad.co.uk:80/Sarah123/Sarah123/212402
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley  SD 1
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay Champion 3
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6786
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay SD Mantab
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia SD Mantab
+#EXTVLCOPT:http-referrer=
+https://e10.cdnfoxtv.me/ingestbr/espnbr/master.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia joss sd
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/6oxokevuy0ruherixale/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay SD Mantab 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e7.dotice.me/plyvivo/gaki6uta6imeyig09e8e/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/fox1br/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 2
+https://e13.dotice.me/plyvivo/toyi7exif0wavame50li/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia SD Mantab 2
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/fs1/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 3
-#EXTVLCOPT:http-referrer=https://www1.bein-live.net/
-https://v18.antimatter-cdn.uk/live/ch5_SD.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 720
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstream25546.m3u8?txSecret=0ba3e18d0bf8573a2f14f204ca676a6c&txTime=1624089979
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 720 china
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd25546.m3u8?txSecret=c7adf2199849199eb60a554899c97580&txTime=1624089979
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay sd 
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd25522.m3u8?txSecret=1a861c3d437f27eb9566ad34a0eaa254&txTime=1624002790
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay SD arab
-https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index_3.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",argentina vs uruguay 720 HD
-http://live2.3giay.tv/55344/136067/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia SD Mantab
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/fs1/d.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia sd
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e6.dotice.me/plyvivo/gaki6uta6imeyig09e8e/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia 2
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/fs1/c.m3u8
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",ukraina vs austria
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",slovakia vs spain SD
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",macedonia vs Belanda
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",slovakia vs spain SD 2
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e6.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",slovakia vs spain SD 3
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e6.dotice.me/plyvivo/ribu5oco5e9e2a7ad0se/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",swedia vs polandia SD
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",finlandia vs belgia 1
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd25462.m3u8?txSecret=94409c54d90cfc2faab3b45fd2b68f97&txTime=1624309041
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",finlandia vs belgia 2
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd25462.m3u8?txSecret=11373e6f37384f4eaba5374d8b963a15&txTime=1624309041
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",denmark vs russia 1
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd25598.m3u8?txSecret=70db0a242636453fcd54d26a081064d0&txTime=1624308735
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",denmark vs russia 2
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd25598.m3u8?txSecret=70db0a242636453fcd54d26a081064d0&txTime=1624308735
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",swedia vs polandia SD
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e13.dotice.me/plyvivo/rototibasezi1i8emef0/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",swedia vs polandia SD
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e13.dotice.me/plyvivo/3isigedo5ef0mudi8ur0/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",jerman vs hungaria SD
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",portugal vs prancis SD 
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",Rep Ceko vs Inggris SD 3
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://e6.dotice.me/plyvivo/70vokobow0t07ituki7i/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 1 SD
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/spainen/c.m3u8
@@ -104,7 +106,7 @@ https://v22.antimatter-cdn.uk/live/cha1_HD.m3u8
 http://live1.3giay.tv/55376/136086/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 11 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e7.dotice.me/plyvivo/m0ji6iba9eru2ona3oce/chunklist.m3u8
+https://e7.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 12 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
 https://e8.dotice.me/plyvivo/tevexom0yanivujiyono/chunklist.m3u8
