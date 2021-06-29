@@ -28,9 +28,9 @@ http://sofadad.co.uk:80/Sarah123/Sarah123/212402
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia SD Mantab
-#EXTVLCOPT:http-referrer=
-https://e10.cdnfoxtv.me/ingestbr/espnbr/master.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",cili vs paraguay SD Mantab
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/fox1br/c.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia joss sd
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
 https://e13.dotice.me/plyvivo/toyi7exif0wavame50li/chunklist.m3u8
@@ -212,8 +212,8 @@ https://warkopteve.xyz/m3u/aplay_us.php?channel=rcti
 
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",wrong turn 2021
 https://www77.uptostream.com/4dq1h4e36d6/480/0/video.mp4
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",A Quiet Place II
-https://www.dl.dropboxusercontent.com/s/iicax7idus1zszh/moviesmeet%E4%B8%A8a.quiet.place.part.ii.%282021%29.480p.english.hdcam-rip.mkv?dl=0
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",Fast Fourius 9 
+https://www.dl.dropboxusercontent.com/s/n50z7wu1ja96jya/fastandfurious9cam%20360p-muxed.mp4?dl=0
 #EXTINF:0 tvg-country="id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxQ5eh2TSgWC97rMVZzjpjGjkgGTIGSqarw&usqp=CAU" group-title="MOVIES",CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
 https://warkopteve.xyz/m3u/celestialmovie.m3u8
