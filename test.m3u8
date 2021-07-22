@@ -1,254 +1,142 @@
 #EXTM3U
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",Vissel Kobe vs Yokohama FC SD 
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",|live 1
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/fox2ar/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",|live 2
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e13.dotice.me/plyvivo/1ejibonu1ivow06obi6o/chunklist.m3u8
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE TARUNG",Live Boxing 1
-#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen2sd
-https://e6.dotice.me/plyvivo/her0303u7ukabagimufe/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE TARUNG",Live UFC 1
+https://hg-t1.dotice.me/plyvivo/9o30xinot0v01i10z020/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",|live 3
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-c1.dotice.me/plyvivo/7udenuso6acuhefu20bo/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",|live 4
 #EXTVLCOPT:http-referrer=https://freefeds.com/
 https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE TARUNG",Live UFC 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e6.dotice.me/plyvivo/da7iwivoxi3umuce4ibe/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE TARUNG",Live UFC 3
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e6.dotice.me/plyvivo/da7iwivoxi3umuce4ibe/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley 1 HD
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7784_720p/index.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley 1 SD
-http://sofadad.co.uk:80/Sarah123/Sarah123/212403
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley Court 2 SD
-http://sofadad.co.uk:80/Sarah123/Sarah123/212402
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE VOLLEY",Live Volley  SD 1
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="ARENA BALAP",F1 live 1
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-c2.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="ARENA BALAP",F1 live 2
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",cili vs paraguay SD Mantab
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/fox1br/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia joss sd
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e13.dotice.me/plyvivo/toyi7exif0wavame50li/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia SD Mantab 2
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/fs1/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia SD Mantab
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/fs1/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia sd
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e6.dotice.me/plyvivo/gaki6uta6imeyig09e8e/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE COPA AMERIKA",Brazil vs Colombia 2
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/fs1/c.m3u8
-
-
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",slovakia vs spain SD
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",slovakia vs spain SD 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e6.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",slovakia vs spain SD 3
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e6.dotice.me/plyvivo/ribu5oco5e9e2a7ad0se/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",swedia vs polandia SD
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",swedia vs polandia SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e13.dotice.me/plyvivo/rototibasezi1i8emef0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",swedia vs polandia SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e13.dotice.me/plyvivo/3isigedo5ef0mudi8ur0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",jerman vs hungaria SD
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",portugal vs prancis SD 
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",Rep Ceko vs Inggris SD 3
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e6.dotice.me/plyvivo/70vokobow0t07ituki7i/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 1 SD
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/spainen/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 2 SD
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 3 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen1sd
-https://e8.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 4 SD
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 5 SD 
-https://d2p8o5fjudh029.cloudfront.net/out/v1/3c03ab735c034f59871dfc2e19f6840d/index_3.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",live 6 SD
-https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index_1.m3u8?
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 7 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/xi4ufocusi7izuhu9a6o/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 8 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/3ixa8amakehu7u1isalo/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 9 SD
-#EXTVLCOPT:http-referrer=https://www1.bein-live.net/
-https://v22.antimatter-cdn.uk/live/cha1_HD.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",20:00|live 10 SD
-http://live1.3giay.tv/55376/136086/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 11 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e7.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 12 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/tevexom0yanivujiyono/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE 13 SD
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE BBC Sport
-http://85.203.33.88/QIfpwiQBrf8222/ilg5yN814/14700
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",LIVE NPO 1 Sport
-http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/18505
-#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX1 SD
-#EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67780
-#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX2 SD
-#EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67781
-#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX3 SD
-#EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67782
-#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX4 SD
-#EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67783
-#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX5 SD
-#EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67784
-#EXTINF:-0 tvg-country="id" tvg-logo="" group-title="LIVE EURO 2321",beIN SPORTS MAX6 SD
-#EXTVLCOPT:http-user-agent=qnrzv00zhdhdyeyeapoq
-http://dimapro.cz:8080/00:1A:79:17:03:01/ziajdjjfdifjd64646/67785
-
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE NBA",LIVE 1
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/je3evijolomo4ebuxiko/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE NBA",LIVE 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e7.dotice.me/plyvivo/je3evijolomo4ebuxiko/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE NBA",LA Lakers vs Suns SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=tntsd
-https://e7.dotice.me/plyvivo/je3evijolomo4ebuxiko/chunklist.m3u8
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE Trans 7
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-trans7
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE 1 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e7.dotice.me/plyvivo/z0xesuwe3i9e80yizoco/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/4u4obo6a4uz06ubit05a/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE 3
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://e8.dotice.me/plyvivo/4u4obo6a4uz06ubit05a/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE 4
-#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=motogpitsd
-https://e13.dotice.me/plyvivo/bawipa6u8o1ag06aniba/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE 5
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 1
 #EXTVLCOPT:http-referrer=
-http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=foxsport2
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE F1 SD
-#EXTVLCOPT:http-referrer=https://freefeds.com/stream/94032.html
-https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE F1 SD 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=wen1sd
-https://e6.dotice.me/plyvivo/70voxi3aya3o7o8amaha/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOTO GP",LIVE F1 SD 3
-#EXTVLCOPT:http-referrer=https://www.tvply.me/sdembed?v=skyf1sd
-https://e6.dotice.me/plyvivo/70voxi3aya3o7o8amaha/chunklist.m3u8
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10795
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 2
+#EXTVLCOPT:http-referrer=
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2536
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 3
+#EXTVLCOPT:http-referrer=
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 4
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+http://ggg.com
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 5
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+http://ggg.com
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 6
+#EXTVLCOPT:http-referrer=
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2538
 
-
-#EXTINF:0 tvg-country="id" tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo%2BRCTI.png" group-title="TV LOKAL",RCTI
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/aplay_vid.php?channel=665
-#EXTINF:0 user-agent="" tvg-country="id" tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo%2BRCTI.png" group-title="TV LOKAL",RCTI 2
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_480p/index.m3u8
-#EXTINF:0 user-agent="Udin-sayang-papahAwen" tvg-country="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/1280px-MNCTV_MNC-Group.svg.png" group-title="TV LOKAL",MNCTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_480p/index.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfEWwgAQFEpGmJe6svgBjUORKeYfv-kNi1Q&usqp=CAU" group-title="TV LOKAL",INDOSIAR
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/vidio-indosiar.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGPtH4KSUnT3H9EQbSXkIsNAb5Z3ySaG4Mg&usqp=CAU" group-title="TV LOKAL",SCTV
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/vidio-sctv.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRj3oTJd7D4yHWz4tnKAXEWDU_UG39ND_uA&usqp=CAU" group-title="TV LOKAL",TRANS 7
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/vidio-trans7.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBuDQGLV7YmWrz-xt70_hUR8LR0-hNYddzpQ&usqp=CAU" group-title="TV LOKAL",TRANS TV
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/vidio-transtv.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="https://static.wikia.nocookie.net/webarebears/images/f/ff/Logo_NET..png/revision/latest?cb=20190108115803&path-prefix=id" group-title="TV LOKAL",NET TV
-#EXTVLCOPT:http-user-agent=
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_480p/index.m3u8
-#EXTINF:0 user-agent="PLAYER" tvg-country="id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV LOKAL",ANTV
-https://nsx1.vitv.site/merdeka/play/antv/index.m3u8?access_key=g6a6RUa3bu4ACtvt
-#EXTINF:0 user-agent="" tvg-country="id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV LOKAL",ANTV 2
-http://62.210.127.9:25461/a6ckyPjvTK/sqcKS61tq4/6763?play_token=krvXGyVFMF&token=TRMOVEpbEg5EAQVZBlQAVAoAB1AGBQVVXQVRWQIFB1dTA14GDVVVV1VBTRoRRBAAWVRtXVFEDgdSAwQUEEJGV0RuD1EbCRIFV1JQC1MEQEkaTVtZUEQOAFMEAgoFBw0BBx1ERVBXEg5EVFkMURJOR11BRlFHCFVdOlFSTltUUBAMXxNZVR8SWwg8BV0PUQwBGgMQBRdKFlgWRRUCXEJZXhoTBFxNQVFAA0FbGlMCUlAaFRBXWhNaRRdMFQIQfnEQGhMDTU1WXkcPDA8aWBIWFhoVEF1GOUZUFkFFXVNaUEAUC0QFGx8SWQcbPlsNXgwAW01bW1sVFgtHBBUUEFpaXF9FCUdmQ1lQRFlDD1oDWkdF
-#EXTINF:0 user-agent="" tvg-country="id" tvg-logo="" group-title="TV LOKAL",Tv One
-http://103.88.170.102:8000/play/tvone/index.m3u8
-#EXTINF:0 user-agent="" tvg-country="id" tvg-logo="" group-title="TV LOKAL",Jtv
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/aplay_us.php?channel=rcti
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",wrong turn 2021
-https://www77.uptostream.com/4dq1h4e36d6/480/0/video.mp4
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",Fast Fourius 9 
-https://www.dl.dropboxusercontent.com/s/n50z7wu1ja96jya/fastandfurious9cam%20360p-muxed.mp4?dl=0
-#EXTINF:0 tvg-country="id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxQ5eh2TSgWC97rMVZzjpjGjkgGTIGSqarw&usqp=CAU" group-title="MOVIES",CELESTIAL MOVIES
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/celestialmovie.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="MOVIES",BIOSKOP INDONESIA
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/bioskopindonesia.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="MOVIES",HBO
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021) 
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:0 tvg-country="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="MOVIES",HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkoptv.xyz/m3u/hbo-sighd.m3u8
-
-#EXTINF:0 tvg-country="id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOmOEfEtt1g5ox91fB-gX12cQfb2iB4BmkDg&usqp=CAU" group-title="MOVIES",HBO HITS
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862c202cb962ac59075b964b07152d234b70
-#EXTINF:0 tvg-country="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png" group-title="MOVIES",FOX ACTION MOVIES
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u2/foxactionmovies2.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="https://img2.pngio.com/thrill-tv-channel-logopedia-fandom-thrill-png-340_191.png" group-title="MOVIES",THRILL MOVIES
-#EXTVLCOPT:http-user-agent=adie1927(04-07-2021)
-https://warkopteve.xyz/m3u/thrill.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",Netflix Action 1
-http://china.iptvlogin.com/live/luisito/luisito/244058.ts
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSjogscQLRaql40L1WcxZ7QncJTGG0thVFA&usqp=CAU" group-title="ANAK-ANAK",DISNEY JUNIOR
-http://ip.mooniptv.cz:80/2773394744/2331282131/78501
-#EXTINF:0 tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBd3zw1RVRONl_IOM8dIdJdpej2dzLFtE0vg&usqp=CAU" group-title="ANAK-ANAK",Niclodeon Junior
-http://ip.mooniptv.cz:80/2773394744/2331282131/78496
-#EXTINF:0 tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOePhd0eHKfi-qLfx4D0666jdFiYONUkeFQ&usqp=CAU" group-title="ANAK-ANAK",OSN DOSNEY MOVIES
-http://62.4.18.94:25461/hakka/hakka/253
-
-#EXTINF:-1 tvg-country="id" tvg-name="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="Tes link",testok
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",Palmeiras vs U. Catolica
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/pufehiyate5a6uz0mif0/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",06:00|Costa Rica vs Jamaica 2
 #EXTVLCOPT:http-referrer=https://freefeds.com/
-#EXTVLCOPT:http-user-agent=
-https://e1.cdnfoxtv.com/ingest09/25556.m3u8?sf=NTZwczEwU2JE&token=MsPhJA6rZOYoJAoA3waDmA&expires=1624023918&rnd=
+https://e10.cdnfoxtv.me/ingestnb4s/fs2/d.m3u8
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",derby - man utd
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 8.1.0; vivo 1820) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+http://45.11.57.43:8081/live/vch2sd.m3u8?e=1626949752&st=XO-370hdKGg0nn_u98aNMA?jisstv1
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",20:00|Rangers FC vs Arsenal FC
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/h0rik05oge9i90nivuna/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",20:00|Borussia Dortmund vs VfL Bochum
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/ge10c08eru8e3i7i9oza/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",20:00|Paderborn vs Monchengladbach
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-c2.dotice.me/plyvivo/xo6upi8a60doz0ci4aru/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",20:00|Winterthur vs Betis
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/BETIS/d.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|Crewe vs Wolves
+#EXTVLCOPT:http-referrer=
+http://rv.flysat.live/307210013157/307210013157/81644
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|RB Leipzig vs AZ Alkmaar
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+http://g.com
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|FC Koln vs Bayern
+#EXTVLCOPT:http-referrer=https://freefeds.com/
+https://e10.cdnfoxtv.me/ingestnb4s/fox3nl/d.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|FC Koln vs Bayern 2
+http://rv.flysat.live/307210013157/307210013157/81650
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|Feyenoord vs Bremen
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+http://g.com
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|St. Gallen vs Ath. Bilbao
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+http://g.com
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|St. Pauli vs Hertha
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+http://g.com
+
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",RCTI
+#EXTVLCOPT:http-user-agent=japri-@UDIN8080
+https://susuaja.my.id/m3u/aplay_vd.php?channel=665
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",MNCTV
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/aplay_vd.php?channel=870
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",GTV
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/aplay_vd.php?channel=778
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",Inews Tv
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/aplay_vd.php?channel=5409
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",TRANS 7
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/aplay_vd.php?channel=734
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",TRANSTV
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/aplay_vd.php?channel=733
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",INDOSIAR
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/aplay_vd.php?channel=205
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",SCTV
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/aplay_vd.php?channel=204
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",ANTV
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",RTV
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/aplay_vd.php?channel=1561
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",JTV
+#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+https://susuaja.my.id/m3u/jtv.m3u8
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",|Black Widow 2021
+#EXTVLCOPT:http-referrer=
+https://www.dl.dropboxusercontent.com/s/ywwj5xsm24awl02/black%20widow%202021%20720p%20webrip%20x264%20700mb%20-%20shortrips.mkv?dl=0
+https://s1.bunnycdn.ru/subpr/subtitle/8763851.vtt
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",|Black Widow 2021
+#EXTVLCOPT:sub-file=https://s1.bunnycdn.ru/subpr/subtitle/8763851.vtt
+#EXTVLCOPT:subsdec-encoding=System Default
+#EXTVLCOPT:subsdec-align=0
+#EXTVLCOPT:freetype-rel-fontsize=16
+#EXTVLCOPT:sub-fps=0
+#EXTVLCOPT:sub-delay=0
+https://www.dl.dropboxusercontent.com/s/ywwj5xsm24awl02/black%20widow%202021%20720p%20webrip%20x264%20700mb%20-%20shortrips.mkv?dl=0
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",Space Jam 2021
+https://www.dl.dropboxusercontent.com/s/tiww93v2ze72hd3/space.jam.a.new.legacy.2021.720p.hmax.webrip.800mb.x264-galaxyrg.mkv?dl=0
+
+
+
+
+
 
 
