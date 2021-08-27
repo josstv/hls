@@ -1,191 +1,273 @@
 #EXTM3U
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",|live 1
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/fox2ar/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",|live 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/9o30xinot0v01i10z020/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",|live 3
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c1.dotice.me/plyvivo/7udenuso6acuhefu20bo/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",|live 4
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/c.m3u8
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="ARENA BALAP",F1 live 1
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MLS LEAGUE",Columbus Crew vs Cincinnati
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/crew/d.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MLS LEAGUE",Columbus Crew vs Cincinnati 2
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/crew/f.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MLS LEAGUE",06:30|Club de Foot Montreal vs Toronto FC
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c2.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="ARENA BALAP",F1 live 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/n0ferotuka7e4ic0fuj0/chunklist.m3u8
+https://hg-t1.dotice.me/plyvivo/9i5elahuxeref0sico1i/chunklist.m3u8
 
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",17:30|Japan W v Great Britain W
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",Liga 1 SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/20geg0co4i7an0g0lu5u/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",18:00|Netherlands W v Brazil W
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/bibi5ahepe7iwur0biyu/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",18:30New Zealand W v USA W
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 1
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/318
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 2
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/319
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 3
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/320
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 4
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/321
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 5
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/322
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 6
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/323
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 7
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/324
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 8
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/325
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 9
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/326
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Olympiade 10
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/327
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",live ahihi
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c2.dotice.me/plyvivo/40bani3ucojibawazuwi/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 1a
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/t07utesawu9e1ahayalu/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 1
+https://hg-t1.dotice.me/plyvivo/zicu904iw0ha50f0va8o/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",Tinju LIVE SD
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",liga 1 test
 #EXTVLCOPT:http-referrer=
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10795
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 2
-#EXTVLCOPT:http-referrer=
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2536
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 3
-#EXTVLCOPT:http-referrer=
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 4
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c1.dotice.me/plyvivo/sucaweyo9epip0feladi/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 5
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c1.dotice.me/plyvivo/bahawez06a8040v0vupo/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 6
-#EXTVLCOPT:http-referrer=
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2538
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 7
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c2.dotice.me/plyvivo/1omiku9ofahid0bujewu/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="OLIMPIADE TOKYO 2020",Live 8
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/mere2ajafotifujirafe/chunklist.m3u8
+https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CpEFnLnms_Mz0JbEC1sD17JRUKDihE87cxJuEaYxIvVluZFk_7e4BRaJHJY2FLSzxH7yqRp7556MiQQkoa8GywrFZw5BJvAgeB0P5Si9RtLV5Prmt5y9_jU5kNmI4yTNXGIx65IBCh4_ItSWp9dHmRDCuEVCxY5j5GXOygyAbvikye0lHjGohJOnPL9MQHHEmuySszH6_O3SEwPR2FSkgp9JMqQtNfBg20Bee2Rz17Kkf9bpaE_3yXi0OEf22mu3cYAxc9XpSb7wbqycKpWyYKWaZlKHOEt7M8k7SW-nISx2RkWp2f4avruzuLJLzgI3hZ4EijmdkUuaTUuHVYKOdZM9nuYrp_Ep7uAZCPJIo7K5FnXpW6Av5CyPI-iy_ExF2OaWbciPlYBXeJdzD7S7TRHjYyBN3DBit8iG_fhUuPp9apbYN2L3ucJduiqRbrq8ZwkreeS5_hK-GahqGXrvNHb-NxUgNc7BoRqnvM3D_eZ_xjtZnRUknOpseuCcttX6f0rX566j7t3NlTaGCBWJljHp5-qQpJ1UtMMFHuz32g06ZODclzMPpbOK7KbX_bce50V4RCNEjB_b98wuK3pl2kRJP0ZuHzPRh91OAvLvv_UNbu4wHiM-yOqpxG0hgQTNFD-DlaPuvshQ8vem8Wpm175trfXzWuNE1MeicS8vQssn1P-_mBpJQF6QSFWMD6gz554N4wdBhWjQVUe0Eq0xET7qSBQXDjxkw9VZhbQEcgV0eaPOnfuKuoif6NgSx7XEhcwSJFF7jvWfamkmWnFS4RazdzhjBk-sHZymlC6NY7rDvpiZ2RboCdTpmog2L43eBKC-Io8KhkrHWS3RYj93F8JjhfI5KaAQcPy6KI_B_iPWFK0WEhCHsE2DIFlMeUjG9iE0SLsiGgyq-2CXQg-nKOQX0_o.m3u8
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",21:00|Queens Park Rangers v Manchester United
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="ARENA BALAPAN",Moto Gp 1
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/70vokobow0t07ituki7i/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",21:00|Celtic v West Ham United
+https://hg-t1.dotice.me/plyvivo/9ox0wu1etirob05e3ojo/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="ARENA BALAPAN",Moto Gp 2
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c2.dotice.me/plyvivo/3isigedo5ef0mudi8ur0/chunklist.m3u8
+https://hg-c2.dotice.me/plyvivo/4u4obo6a4uz06ubit05a/chunklist.m3u8
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE NBA" SPORT",06:00~Minnesota Timberwolves v Philadelphia 76ers
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-c1.dotice.me/plyvivo/ki7aguruvusah03ages0/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE NBA" SPORT",07:00~Orlando Magic v Houston Rockets
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/8ug0g0ko2u2u3owuhaki/chunklist.m3u8
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",derby - man utd
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 8.1.0; vivo 1820) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
-http://45.11.57.43:8081/live/vch2sd.m3u8?e=1626949752&st=XO-370hdKGg0nn_u98aNMA?jisstv1
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",20:00|Rangers FC vs Arsenal FC
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="CARABAO CUP",Newcastle United vs Burnley
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstream317374.m3u8?txSecret=7d15207cd1316549581f70a7e857450b&txTime=1630099376
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="CARABAO CUP",Newport County AFC vs Southampton
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="CARABAO CUP",West Bromwich Albion vs Arsenal
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/h0rik05oge9i90nivuna/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",20:00|Borussia Dortmund vs VfL Bochum
+https://hg-c1.dotice.me/plyvivo/7e10powufaci1icigizu/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="CARABAO CUP",West Bromwich Albion vs Arsenal 2
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/ge10c08eru8e3i7i9oza/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",20:00|Paderborn vs Monchengladbach
+https://hg-c2.dotice.me/plyvivo/3o9ibo1u2ih07opewoki/chunklist.m3u8
+
+
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA EROPA",Rangers
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c2.dotice.me/plyvivo/xo6upi8a60doz0ci4aru/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",20:00|Winterthur vs Betis
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/BETIS/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|Crewe vs Wolves
+https://hg-t1.dotice.me/plyvivo/sateti4o6ocagikazape/chunklist.m3u8
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA CHAMPION EROPA",23:00|UEFA Champions League Draw
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/3owemineba6o8ivo6ac0/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA CHAMPION EROPA",23:00|UEFA Champions League Draw 2
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/zu1uzu8akan0getayege/chunklist.m3u8
+
+
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UEFA Conference League",23:00~KuPS v Union Berlin
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/2umahicap05ahola107a/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UEFA Conference League",23:00~KuPS v Union Berlin 2
 #EXTVLCOPT:http-referrer=
-http://rv.flysat.live/307210013157/307210013157/81644
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|RB Leipzig vs AZ Alkmaar
+http://live4.khungthanh.com/59531/145734/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UEFA Conference League",00:30|Trabzonspor v AS Roma
+#EXTVLCOPT:http-referrer=
+http://live3.khungthanh.com/59554/145821/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UEFA Conference League",01:30|FC Pacos de Ferreira v Tottenham Hotspur
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-http://g.com
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|FC Koln vs Bayern
-#EXTVLCOPT:http-referrer=https://freefeds.com/
-https://e10.cdnfoxtv.me/ingestnb4s/fox3nl/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|FC Koln vs Bayern 2
-http://rv.flysat.live/307210013157/307210013157/81650
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|Feyenoord vs Bremen
+https://hg-t1.dotice.me/plyvivo/6esoju3em0z0herefixu/chunklist.m3u8
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",02:00|West Ham United vs Leicester City HD
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamcnhd4048.m3u8?txSecret=b2e569812a35356e1662b89b585abe83&txTime=1629756153
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",02:00|West Ham United vs Leicester City SD
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd4048.m3u8?txSecret=b2a27c9489eceb5e061d0fb50e91c458&txTime=1629756153
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",02:00|West Ham United vs Leicester City SD 2
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/west/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",02:00|West Ham United vs Leicester City SD 3
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/west/d.m3u8
+
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA PERANCIS",nantes vs lyon SD
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-http://g.com
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|St. Gallen vs Ath. Bilbao
+https://hg-t1.dotice.me/plyvivo/rodo1ijugawo3uzi50do/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA PERANCIS",nantes vs lyon
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamcnhd2494054.m3u8?txSecret=97f8fb556607604f1d86262c1336997c&txTime=1630102676
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA PERANCIS",nantes vs lyon 2
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd2494054.m3u8?txSecret=c9c135383f052145a61a1d94d72cdb31&txTime=1630102676
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA JERMAN",01:30|Borussia Dortmund vs Hoffenheim SD
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/BVB/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA JERMAN",01:30|Borussia Dortmund vs Hoffenheim
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstream38594.m3u8?txSecret=2b3c426e4aeb416e5690a7df43ee3334&txTime=1630102289
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA JERMAN",01:30|Borussia Dortmund vs Hoffenheim 2
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamcnhd38594.m3u8?txSecret=63904db20a9c14b6565ee3f25955b045&txTime=1630102289
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA JERMAN",01:30|Borussia Dortmund vs Hoffenheim 3
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd38594.m3u8?txSecret=879319e5014c3faef0b66c3883379cd3&txTime=1630102289
+
+
+
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA SPANYOL",01:00|Real Mallorca vs Espanyol
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamcnhd6956.m3u8?txSecret=538b1af1d1360729c98a5f88a4af4048&txTime=1630102445
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA SPANYOL",01:00|Real Mallorca vs Espanyol 2
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd6956.m3u8?txSecret=641cf0db50376da1d231be293f494779&txTime=1630102445
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA SPANYOL",03:15|Valencia C.F vs Alaves
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamcnhd23082.m3u8?txSecret=2887c85c2a34d6f5f2f30063521e8a89&txTime=1630102583
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA SPANYOL",03:15|Valencia C.F vs Alaves 2
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd23082.m3u8?txSecret=cb1e585cdd3ed9e8c7ddbc984ece710d&txTime=1630102583
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",gak tau liga apaan
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-http://g.com
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="FRIENDLY MATCH",21:00|St. Pauli vs Hertha
+https://hg-t1.dotice.me/plyvivo/nuzano5eveyumu4em0ka/chunklist.m3u8
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",23:30|Udinese Calcio vs Venezia
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",01:45|Hellas Verona FC vs Internazionale Milano SD
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/Inter/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",01:45|Hellas Verona FC vs Internazionale Milano
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstream52990.m3u8?txSecret=9d1c1f8150f31bc9190707f981367080&txTime=1630101513
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",01:45|Hellas Verona FC vs Internazionale Milano 2
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamcnhd52990.m3u8?txSecret=b27709cda6ceaf5289ef85e81138d477&txTime=1630101513
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",01:45|Hellas Verona FC vs Internazionale Milano 3
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd52990.m3u8?txSecret=6a997db23af95e25dc64f4c43bd270d0&txTime=1630101513
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",17:15|FC Twente vs Ajax Amsterdam HD
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/fox1nl/f.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",17:15|FC Twente vs Ajax Amsterdam SD
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/fox1nl/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",19:30|Feyenoord Rotterdam vs Go Ahead Eagles HD
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/fox1nl/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",19:30|Feyenoord Rotterdam vs Go Ahead Eagles SD
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/fox1nl/d.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",19:30|Feyenoord Rotterdam vs Go Ahead Eagles SD ingggris
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-http://g.com
+https://hg-t1.dotice.me/plyvivo/8abuc050zo1ohofesora/chunklist.m3u8
+
+
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="DFB POKAL",Bremer SV vs Bayern Munich 1
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/fox1br/c.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="DFB POKAL",Bremer SV vs Bayern Munich 2
+#EXTVLCOPT:http-referrer=https://freefeds.click/
+https://e10.cdnfoxtv.me/ingestnb4s/fox1br/d.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="DFB POKAL",Bremer SV vs Bayern Munich 3
+#EXTVLCOPT:http-referrer=https://rcl.tvply.me/
+https://hg-c1.dotice.me/plyvivo/fox0cafa1okono6ijotu/chunklist.m3u8
+
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport Premium 1
+http://hbox.cdnss.me/bestcs/bestcs/7952
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport Premium 2
+http://firetv.vip/live/a0549743275r/rt0549743275/64462.ts
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport Premium 3
+http://firetv.vip/live/a0549743275r/rt0549743275/71363.ts
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 1
+http://firetv.vip/live/a0549743275r/rt0549743275/64464.ts
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 2
+http://firetv.vip/live/a0549743275r/rt0549743275/64465.ts
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 3
+http://firetv.vip/live/a0549743275r/rt0549743275/64466.ts
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 4
+http://firetv.vip/live/a0549743275r/rt0549743275/64467.ts
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 5
+http://firetv.vip/live/a0549743275r/rt0549743275/64468.ts
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT",Eleven sport 1
+http://rv.flysat.live/307210013157/307210013157/177486
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT",Eleven sport 2
+http://rv.flysat.live/307210013157/307210013157/177485
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT",Eleven sport 3
+http://rv.flysat.live/307210013157/307210013157/177484
 
 
 
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",RCTI
-#EXTVLCOPT:http-user-agent=japri-@UDIN8080
-https://susuaja.my.id/m3u/aplay_vd.php?channel=665
+#EXTVLCOPT:http-user-agent=
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",MNCTV
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
-https://susuaja.my.id/m3u/aplay_vd.php?channel=870
+#EXTVLCOPT:http-user-agent=adie1927(24-9-2021)
+https://warkopteve.xyz/m3u/aplay_vid.php?channel=870
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",GTV
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
-https://susuaja.my.id/m3u/aplay_vd.php?channel=778
+#EXTVLCOPT:http-user-agent=adie1927(24-9-2021)
+https://warkopteve.xyz/m3u/aplay_vid.php?channel=778
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",Inews Tv
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+#EXTVLCOPT:http-user-agent=japri-@UDIN8080
 https://susuaja.my.id/m3u/aplay_vd.php?channel=5409
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",TRANS 7
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
-https://susuaja.my.id/m3u/aplay_vd.php?channel=734
+#EXTVLCOPT:http-user-agent=
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",TRANSTV
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
-https://susuaja.my.id/m3u/aplay_vd.php?channel=733
+#EXTVLCOPT:http-user-agent=
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",INDOSIAR
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
-https://susuaja.my.id/m3u/aplay_vd.php?channel=205
+#EXTVLCOPT:http-user-agent=
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",SCTV
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
-https://susuaja.my.id/m3u/aplay_vd.php?channel=204
+#EXTVLCOPT:http-user-agent=
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",ANTV
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+#EXTVLCOPT:http-user-agent=japri-@UDIN8080
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",RTV
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
-https://susuaja.my.id/m3u/aplay_vd.php?channel=1561
+#EXTVLCOPT:http-user-agent=
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",JTV
-#EXTVLCOPT:http-user-agent=UA-baru-belum-dibuat
+#EXTVLCOPT:http-user-agent=japri-@UDIN8080
 https://susuaja.my.id/m3u/jtv.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",NET TV
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",O CHANNEL
+https://etslive-2-vidio-com.akamaized.net/exp=1630061122~acl=/hls-p/ingest_206_*/*~hmac=5f3068533ecac727f6afd22e6bec47cac8430e1c59a62d5713ab42a4886cb8ab/hls-p/ingest_206_480p/index.m3u8
 
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",|Black Widow 2021
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",|Kingdom: Ashin Of The North (2021)
 #EXTVLCOPT:http-referrer=
-https://www.dl.dropboxusercontent.com/s/ywwj5xsm24awl02/black%20widow%202021%20720p%20webrip%20x264%20700mb%20-%20shortrips.mkv?dl=0
-https://s1.bunnycdn.ru/subpr/subtitle/8763851.vtt
+https://www.dl.dropboxusercontent.com/s/ntrgk4554n6exdo/Kingdom_Ashin_of_the_North_%26_40_2021%26_41_.mp4?dl=0
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",|Ghibah  (2021)
+https://www.googleapis.com/drive/v3/files/1q-1bxRPEC03SX57NIrZsjjNmOsfV9vhG?alt=media&key=AIzaSyCRgh8fCiWH1ts64n7KmqTqfkwtRSDlkKA
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",Film The Grotesque Mansion (2021)
+https://www.googleapis.com/drive/v3/files/1yHoiQGrxjKpuTn5Cik7DULPJoa6pOyGf?alt=media&key=AIzaSyCRgh8fCiWH1ts64n7KmqTqfkwtRSDlkKA
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",|Black Widow 2021
-#EXTVLCOPT:sub-file=https://s1.bunnycdn.ru/subpr/subtitle/8763851.vtt
-#EXTVLCOPT:subsdec-encoding=System Default
-#EXTVLCOPT:subsdec-align=0
-#EXTVLCOPT:freetype-rel-fontsize=16
-#EXTVLCOPT:sub-fps=0
-#EXTVLCOPT:sub-delay=0
-https://www.dl.dropboxusercontent.com/s/ywwj5xsm24awl02/black%20widow%202021%20720p%20webrip%20x264%20700mb%20-%20shortrips.mkv?dl=0
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",Space Jam 2021
-https://www.dl.dropboxusercontent.com/s/tiww93v2ze72hd3/space.jam.a.new.legacy.2021.720p.hmax.webrip.800mb.x264-galaxyrg.mkv?dl=0
 
 
 
