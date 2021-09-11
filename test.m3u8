@@ -1,280 +1,49 @@
 #EXTM3U
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MLS LEAGUE",Columbus Crew vs Cincinnati
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/crew/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MLS LEAGUE",Columbus Crew vs Cincinnati 2
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/crew/f.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MLS LEAGUE",06:30|Club de Foot Montreal vs Toronto FC
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/9i5elahuxeref0sico1i/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MLS LEAGUE",07:30|Orlando City vs Inter Miami
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/badedokogas07uyaw06u/chunklist.m3u8
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",Liga 1 SD
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/zicu904iw0ha50f0va8o/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",Tinju LIVE SD
-#EXTVLCOPT:http-referrer=https://freefeds.click/
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",18:30~Crystal Palace vs Tottenham Hotspur vip
+http://yassooo.com:8080/live/benAlaa/829293992/80079.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",18:30~Crystal Palace vs Tottenham Hotspur SD 1
+#EXTVLCOPT:http-referrer=https://freefeds.click/stream/3/120343.html
 https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UFC SPORT",liga 1 test
-#EXTVLCOPT:http-referrer=
-https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CpEFnLnms_Mz0JbEC1sD17JRUKDihE87cxJuEaYxIvVluZFk_7e4BRaJHJY2FLSzxH7yqRp7556MiQQkoa8GywrFZw5BJvAgeB0P5Si9RtLV5Prmt5y9_jU5kNmI4yTNXGIx65IBCh4_ItSWp9dHmRDCuEVCxY5j5GXOygyAbvikye0lHjGohJOnPL9MQHHEmuySszH6_O3SEwPR2FSkgp9JMqQtNfBg20Bee2Rz17Kkf9bpaE_3yXi0OEf22mu3cYAxc9XpSb7wbqycKpWyYKWaZlKHOEt7M8k7SW-nISx2RkWp2f4avruzuLJLzgI3hZ4EijmdkUuaTUuHVYKOdZM9nuYrp_Ep7uAZCPJIo7K5FnXpW6Av5CyPI-iy_ExF2OaWbciPlYBXeJdzD7S7TRHjYyBN3DBit8iG_fhUuPp9apbYN2L3ucJduiqRbrq8ZwkreeS5_hK-GahqGXrvNHb-NxUgNc7BoRqnvM3D_eZ_xjtZnRUknOpseuCcttX6f0rX566j7t3NlTaGCBWJljHp5-qQpJ1UtMMFHuz32g06ZODclzMPpbOK7KbX_bce50V4RCNEjB_b98wuK3pl2kRJP0ZuHzPRh91OAvLvv_UNbu4wHiM-yOqpxG0hgQTNFD-DlaPuvshQ8vem8Wpm175trfXzWuNE1MeicS8vQssn1P-_mBpJQF6QSFWMD6gz554N4wdBhWjQVUe0Eq0xET7qSBQXDjxkw9VZhbQEcgV0eaPOnfuKuoif6NgSx7XEhcwSJFF7jvWfamkmWnFS4RazdzhjBk-sHZymlC6NY7rDvpiZ2RboCdTpmog2L43eBKC-Io8KhkrHWS3RYj93F8JjhfI5KaAQcPy6KI_B_iPWFK0WEhCHsE2DIFlMeUjG9iE0SLsiGgyq-2CXQg-nKOQX0_o.m3u8
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="ARENA BALAPAN",Moto Gp 1
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/9ox0wu1etirob05e3ojo/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="ARENA BALAPAN",Moto Gp 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c2.dotice.me/plyvivo/4u4obo6a4uz06ubit05a/chunklist.m3u8
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE NBA" SPORT",06:00~Minnesota Timberwolves v Philadelphia 76ers
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c1.dotice.me/plyvivo/ki7aguruvusah03ages0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE NBA" SPORT",07:00~Orlando Magic v Houston Rockets
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/8ug0g0ko2u2u3owuhaki/chunklist.m3u8
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="CARABAO CUP",Newcastle United vs Burnley
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstream317374.m3u8?txSecret=7d15207cd1316549581f70a7e857450b&txTime=1630099376
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="CARABAO CUP",Newport County AFC vs Southampton
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="CARABAO CUP",West Bromwich Albion vs Arsenal
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c1.dotice.me/plyvivo/7e10powufaci1icigizu/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="CARABAO CUP",West Bromwich Albion vs Arsenal 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c2.dotice.me/plyvivo/3o9ibo1u2ih07opewoki/chunklist.m3u8
-
-
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA EROPA",Rangers
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/sateti4o6ocagikazape/chunklist.m3u8
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA CHAMPION EROPA",23:00|UEFA Champions League Draw
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/3owemineba6o8ivo6ac0/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA CHAMPION EROPA",23:00|UEFA Champions League Draw 2
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/zu1uzu8akan0getayege/chunklist.m3u8
-
-
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UEFA Conference League",23:00~KuPS v Union Berlin
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/2umahicap05ahola107a/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UEFA Conference League",23:00~KuPS v Union Berlin 2
-#EXTVLCOPT:http-referrer=
-http://live4.khungthanh.com/59531/145734/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UEFA Conference League",00:30|Trabzonspor v AS Roma
-#EXTVLCOPT:http-referrer=
-http://live3.khungthanh.com/59554/145821/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="UEFA Conference League",01:30|FC Pacos de Ferreira v Tottenham Hotspur
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/6esoju3em0z0herefixu/chunklist.m3u8
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",02:00|West Ham United vs Leicester City HD
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd4048.m3u8?txSecret=b2e569812a35356e1662b89b585abe83&txTime=1629756153
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",02:00|West Ham United vs Leicester City SD
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd4048.m3u8?txSecret=b2a27c9489eceb5e061d0fb50e91c458&txTime=1629756153
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",02:00|West Ham United vs Leicester City SD 2
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",18:30~Crystal Palace vs Tottenham Hotspur SD 2
 #EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/west/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",02:00|West Ham United vs Leicester City SD 3
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/west/d.m3u8
-
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA PERANCIS",nantes vs lyon SD
+https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/d.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",18:30~Crystal Palace vs Tottenham Hotspur SD inggris
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/rodo1ijugawo3uzi50do/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA PERANCIS",nantes vs lyon
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd2494054.m3u8?txSecret=97f8fb556607604f1d86262c1336997c&txTime=1630102676
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA PERANCIS",nantes vs lyon 2
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd2494054.m3u8?txSecret=c9c135383f052145a61a1d94d72cdb31&txTime=1630102676
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA JERMAN",01:30|Borussia Dortmund vs Hoffenheim SD
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/BVB/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA JERMAN",01:30|Borussia Dortmund vs Hoffenheim
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstream38594.m3u8?txSecret=2b3c426e4aeb416e5690a7df43ee3334&txTime=1630102289
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA JERMAN",01:30|Borussia Dortmund vs Hoffenheim 2
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd38594.m3u8?txSecret=63904db20a9c14b6565ee3f25955b045&txTime=1630102289
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA JERMAN",01:30|Borussia Dortmund vs Hoffenheim 3
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd38594.m3u8?txSecret=879319e5014c3faef0b66c3883379cd3&txTime=1630102289
-
-
-
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA SPANYOL",01:00|Real Mallorca vs Espanyol
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd6956.m3u8?txSecret=538b1af1d1360729c98a5f88a4af4048&txTime=1630102445
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA SPANYOL",01:00|Real Mallorca vs Espanyol 2
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd6956.m3u8?txSecret=641cf0db50376da1d231be293f494779&txTime=1630102445
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA SPANYOL",03:15|Valencia C.F vs Alaves
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd23082.m3u8?txSecret=2887c85c2a34d6f5f2f30063521e8a89&txTime=1630102583
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA SPANYOL",03:15|Valencia C.F vs Alaves 2
-#EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd23082.m3u8?txSecret=cb1e585cdd3ed9e8c7ddbc984ece710d&txTime=1630102583
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE BOLA",gak tau liga apaan
+https://hg-t1.dotice.me/plyvivo/tabi9ecibapiraba80za/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",18:30~Crystal Palace vs Tottenham Hotspur
 #EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/nuzano5eveyumu4em0ka/chunklist.m3u8
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",23:30|Udinese Calcio vs Venezia
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",01:45|Hellas Verona FC vs Internazionale Milano SD
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/Inter/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",01:45|Hellas Verona FC vs Internazionale Milano
+https://hg-c1.dotice.me/plyvivo/t07utesawu9e1ahayalu/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Arsenal vs Norwich City vip
+http://yassooo.com:8080/live/benAlaa/829293992/80114.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Arsenal vs Norwich City
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstream52990.m3u8?txSecret=9d1c1f8150f31bc9190707f981367080&txTime=1630101513
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",01:45|Hellas Verona FC vs Internazionale Milano 2
+https://jdy.zhangjianxun.com/live/zbstreamhd101358.m3u8?txSecret=5d59324441091f0b59c0f041aa053526&txTime=1631397984
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Arsenal vs Norwich City 2
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamcnhd52990.m3u8?txSecret=b27709cda6ceaf5289ef85e81138d477&txTime=1630101513
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA ITALIA",01:45|Hellas Verona FC vs Internazionale Milano 3
+https://jdy.zhangjianxun.com/live/zbstreamcnhd101358.m3u8?txSecret=91ca1f45789aeb8377513f4002db57c2&txTime=1631397984
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Leicester City vs Manchester City vip
+http://yassooo.com:8080/live/benAlaa/829293992/80078.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Leicester City vs Manchester City
 #EXTVLCOPT:http-referrer=https://jindouyun.tv/
-https://jdy.zhangjianxun.com/live/zbstreamhd52990.m3u8?txSecret=6a997db23af95e25dc64f4c43bd270d0&txTime=1630101513
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",17:15|FC Twente vs Ajax Amsterdam HD
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/fox1nl/f.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",17:15|FC Twente vs Ajax Amsterdam SD
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/fox1nl/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",19:30|Feyenoord Rotterdam vs Go Ahead Eagles HD
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/fox1nl/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",19:30|Feyenoord Rotterdam vs Go Ahead Eagles SD
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/fox1nl/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA BELANDA",19:30|Feyenoord Rotterdam vs Go Ahead Eagles SD ingggris
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/8abuc050zo1ohofesora/chunklist.m3u8
-
-
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="DFB POKAL",Bremer SV vs Bayern Munich 1
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/fox1br/c.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="DFB POKAL",Bremer SV vs Bayern Munich 2
-#EXTVLCOPT:http-referrer=https://freefeds.click/
-https://e10.cdnfoxtv.me/ingestnb4s/fox1br/d.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="DFB POKAL",Bremer SV vs Bayern Munich 3
-#EXTVLCOPT:http-referrer=https://rcl.tvply.me/
-https://hg-c1.dotice.me/plyvivo/fox0cafa1okono6ijotu/chunklist.m3u8
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Sport TV 5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport Premium 1
-http://hbox.cdnss.me/bestcs/bestcs/7952
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport Premium 2
-http://firetv.vip/live/a0549743275r/rt0549743275/64462.ts
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport Premium 3
-http://firetv.vip/live/a0549743275r/rt0549743275/71363.ts
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 1
-http://firetv.vip/live/a0549743275r/rt0549743275/64464.ts
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 2
-http://firetv.vip/live/a0549743275r/rt0549743275/64465.ts
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 3
-http://firetv.vip/live/a0549743275r/rt0549743275/64466.ts
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 4
-http://firetv.vip/live/a0549743275r/rt0549743275/64467.ts
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT", Bein Sport 5
-http://firetv.vip/live/a0549743275r/rt0549743275/64468.ts
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT",Eleven sport 1
-http://rv.flysat.live/307210013157/307210013157/177486
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT",Eleven sport 2
-http://rv.flysat.live/307210013157/307210013157/177485
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE SPORT",Eleven sport 3
-http://rv.flysat.live/307210013157/307210013157/177484
-
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",RCTI
-#EXTVLCOPT:http-user-agent=
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",MNCTV
-#EXTVLCOPT:http-user-agent=adie1927(24-9-2021)
-https://warkopteve.xyz/m3u/aplay_vid.php?channel=870
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",GTV
-#EXTVLCOPT:http-user-agent=adie1927(24-9-2021)
-https://warkopteve.xyz/m3u/aplay_vid.php?channel=778
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",Inews Tv
-#EXTVLCOPT:http-user-agent=japri-@UDIN8080
-https://susuaja.my.id/m3u/aplay_vd.php?channel=5409
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",TRANS 7
-#EXTVLCOPT:http-user-agent=
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",TRANSTV
-#EXTVLCOPT:http-user-agent=
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",INDOSIAR
-#EXTVLCOPT:http-user-agent=
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",SCTV
-#EXTVLCOPT:http-user-agent=
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",ANTV
-#EXTVLCOPT:http-user-agent=japri-@UDIN8080
-http://210.210.155.35/qwr9ew/s/s07/01.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",RTV
-#EXTVLCOPT:http-user-agent=
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",JTV
-#EXTVLCOPT:http-user-agent=japri-@UDIN8080
-https://susuaja.my.id/m3u/jtv.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",NET TV
-http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="TV LOKAL",O CHANNEL
-https://etslive-2-vidio-com.akamaized.net/exp=1630061122~acl=/hls-p/ingest_206_*/*~hmac=5f3068533ecac727f6afd22e6bec47cac8430e1c59a62d5713ab42a4886cb8ab/hls-p/ingest_206_480p/index.m3u8
-
-
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",|Kingdom: Ashin Of The North (2021)
-#EXTVLCOPT:http-referrer=
-https://www.dl.dropboxusercontent.com/s/ntrgk4554n6exdo/Kingdom_Ashin_of_the_North_%26_40_2021%26_41_.mp4?dl=0
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",|Ghibah  (2021)
-https://www.googleapis.com/drive/v3/files/1q-1bxRPEC03SX57NIrZsjjNmOsfV9vhG?alt=media&key=AIzaSyCRgh8fCiWH1ts64n7KmqTqfkwtRSDlkKA
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="MOVIES",Film The Grotesque Mansion (2021)
-https://www.googleapis.com/drive/v3/files/1yHoiQGrxjKpuTn5Cik7DULPJoa6pOyGf?alt=media&key=AIzaSyCRgh8fCiWH1ts64n7KmqTqfkwtRSDlkKA
-
-
-
-
-
-
-
-
+https://jdy.zhangjianxun.com/live/zbstreamcnhd4048.m3u8?txSecret=58b6e7fee0ab3b381ec07271e276b1c7&txTime=1631397831
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Leicester City vs Manchester City 2
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd4048.m3u8?txSecret=74adb37e71c86bd9ae1280d7e8a855fa&txTime=1631397831
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Manchester United vs Newcastle United vip
+http://watchindia.net:8880/live/33253/72963/1070.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Manchester United vs Newcastle United
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamhd4000.m3u8?txSecret=f5d79e4662b1f5470ec4d00cc86b3b83&txTime=1631397832
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Manchester United vs Newcastle United 2
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+https://jdy.zhangjianxun.com/live/zbstreamcnhd4000.m3u8?txSecret=7caf5527d393de8157c76ba78e0528c2&txTime=1631397832
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Southampton vs West Ham United
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Watford vs Wolverhampton Wanderers
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Brentford vs Brighton & Hove Albion vip
+http://yassooo.com:8080/live/benAlaa/829293992/80118.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",21:00~Brentford vs Brighton & Hove Albion
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIGA INGGRIS",23:30~Chelsea vs Aston Villa
+#EXTVLCOPT:http-referrer=https://jindouyun.tv/
